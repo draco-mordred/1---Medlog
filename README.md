@@ -1,9 +1,10 @@
 Med Log Student Dashboard (full Stack)
-· typescript
+
+· Typescript
 
 =====================================================
 
-MEDLOG - FULL PRODUCTION SYSTEM (FINAL UPGRADE)
+MEDLOG - FULL PRODUCTION SYSTEM
 
 =====================================================
 
